@@ -1,0 +1,37 @@
+.container-1 {
+    border: 1px solid black;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+}
+
+body {
+   
+    background-color: rgba(9, 211, 211, 0.966);
+    
+    
+}
+
+.flex-box-container {
+   
+    padding: 10px;
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flex-box-container div {
+    padding: 10px;
+    border: 1px sold black;
+    align-items: center;
+    
+}
+
+span {
+    color: red;
+    font-size: 4rem;
+}
+
